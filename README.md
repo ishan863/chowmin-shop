@@ -5,6 +5,8 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
+🍜 Complete Flutter Food Delivery App with Admin Panel | Firebase | Razorpay
+
 A modern Flutter food delivery application with comprehensive admin panel and customer features.
 
 ## 🚀 Features
@@ -41,10 +43,6 @@ A modern Flutter food delivery application with comprehensive admin panel and cu
 - **Payments**: Razorpay Integration
 - **Animations**: Custom Flutter animations
 - **UI**: Material Design 3
-
-## 📱 Screenshots
-
-<!-- Add screenshots here -->
 
 ## 🚀 Getting Started
 
